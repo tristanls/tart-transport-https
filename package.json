@@ -1,6 +1,6 @@
 {
   "name": "tart-transport-https",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "HTTPS transport implementation for tart",
   "scripts": {
     "inject-examples": "node scripts/injectExamples.js",
